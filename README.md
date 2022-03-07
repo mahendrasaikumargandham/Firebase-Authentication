@@ -6,3 +6,4 @@ A sample React JS App with firebase authentication
   <li>Firebase console account</li>
   <li>Knowlege on React</li>
 </ul>
+<h3>Editing App.js🚀</h3>
